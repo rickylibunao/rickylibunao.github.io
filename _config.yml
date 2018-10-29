@@ -2,9 +2,12 @@
 title: Ricky Libunao &vert; Photographer &vert; Videographer &vert; Graphic Designer
 email: rickyplibunao@gmail.com
 url: rickylibunao.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Photographer - Videographer - Web Designer"
+description: "I’m an experienced Photographer, Videographer, Graphic/Web
+Designer seeking full-time position in the Field of social media,
+marketing communications and other related-fields where I can
+apply my skills for continuous improvement."
+keywords: "Ricky Libunao, Photographer Bangkok, Graphic Design Bangkok"
+skills: "Photographer - Videographer - Graphic Designer"
 meta_author: Ricky Libunao
 
 # Google webmaster tools
@@ -40,7 +43,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: flickr
-    url: https://www.flickr.com/people/rickylibunao/
+    url: https://www.flickr.com/people/rickylibunao
   - title: linkedin
     url: https://linkedin.com/in/rickylibunao
   - title: github
